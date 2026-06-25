@@ -1,0 +1,17 @@
+{
+  "mcpServers": {
+    "neon": {
+      "command": "C:\\Users\\hmolinghen\\node\\node.exe",
+      "args": [
+        "C:\\Users\\hmolinghen\\node\\node_modules\\npm\\bin\\npx-cli.js",
+        "-y",
+        "@neondatabase/mcp-server-neon",
+        "start",
+        "napi_a7lnpgok706b5zcu7l9p4oxhh1hk7btnbfp9dh5y598rb7fu6ta8xvbymlxv4no1"
+      ],
+      "env": {
+        "PATH": "C:\\Users\\hmolinghen\\node;C:\\WINDOWS\\system32;C:\\WINDOWS;C:\\WINDOWS\\System32\\Wbem;C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\"
+      }
+    }
+  }
+}
